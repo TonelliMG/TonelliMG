@@ -1,10 +1,26 @@
-## Olá! Eu sou o Raphael Tonelli 🖐️
+<h1 align='center'> Olá! Eu sou o Raphael Tonelli 🖐️</h1>
 
 <div><br/></div>
 
-![Tonelli GitHub stats](https://github-readme-stats.vercel.app/api?username=tonellimg&show_icons=true&theme=dark&count_private=true)
+<p style='text-align: center'>
+<img src="https://github-readme-stats.vercel.app/api?username=tonellimg&show_icons=true&theme=dark&count_private=true">
+</p>
+
+<br/>
+
+<p style='text-align: center'>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonellimg&theme=dark" >
+</p>
 
 <div><br/></div>
+
+<p align='center'>
+  CONFIGURAÇÕES<br/><br/>
+  <img src="https://img.shields.io/badge/windows-11-blue" />
+  <img src="https://img.shields.io/badge/ryzen-5600x-red" />
+  <img src="https://img.shields.io/badge/nvidia-rtx3070-green" />
+  <img src="https://img.shields.io/badge/ram-16gb-yellow" />
+</p>
 
 
 ## Atualmente faço parte do time:
