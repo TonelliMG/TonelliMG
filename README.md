@@ -2,7 +2,7 @@
 
 <div><br/></div>
 
-<p style='text-align: center'>
+<p align='center' style='text-align: center'>
 <img src="https://github-readme-stats.vercel.app/api?username=tonellimg&show_icons=true&theme=dark&count_private=true">
 </p>
 
