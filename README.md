@@ -3,16 +3,16 @@
 
 <!-- Stats do perfil -->
 <p align='center' style='text-align: center'>
-<img src="https://github-readme-stats.vercel.app/api?username=tonellimg&show_icons=true&theme=dark&count_private=true">
+<a href='#'><img src="https://github-readme-stats.vercel.app/api?username=tonellimg&show_icons=true&theme=dark&count_private=true"></a>
 </p>
 
 <!-- Linguagem mais usada -->
 <p align='center' style='text-align: center'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonellimg&theme=dark" >
+<a href='#'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonellimg&theme=dark"></a>
 </p>
 
 <!-- Trabalho -->
-</br></br>
+</br>
 <h1 align='center'> Desenvolvedor</h1>
 
 <p align='center' style='text-align: center'>
@@ -22,7 +22,6 @@
 </p>
 
 <!-- Redes sociais -->
-</br>
 <h2 align='center'> Redes Sociais </h2>
 
 <p align='center' style='text-align: center'>
@@ -33,7 +32,6 @@
 </p>
 
 <!-- Linguagens -->
-
 <h2 align='center'> Linguagens </h2>
 
 <p align='center' style='text-align: center'>
@@ -45,7 +43,6 @@
 </p>
 
 <!-- IDE`s -->
-
 <h2 align='center'> IDE`s </h2>
 
 <p align='center' style='text-align: center'>
@@ -57,7 +54,6 @@
 </p>
 
 <!-- Banco de Dados -->
-
 <h2 align='center'> Banco de Dados </h2>
 
 <p align='center' style='text-align: center'>
@@ -68,7 +64,6 @@
 </p>
 
 <!-- Suporte -->
-
 <h2 align='center'> Outros </h2>
 
 <p align='center' style='text-align: center'>
@@ -80,8 +75,9 @@
 <a href='#' style='padding: 10px' style='padding: 10px'><img align="center" alt="advpl" src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
 </p>
 
-</br></br>
-<h1 align='center'> Configuracoes do PC</h1>
+<!-- SETUP -->
+</br>
+<h1 align='center'> SETUP</h1>
 
 <p align='center' style='text-align: center'>
 <a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/processador-Ryzen 5600x-red" /></a>
