@@ -76,6 +76,7 @@
 </p>
 
 <!-- SETUP -->
+<!--
 </br>
 <h1 align='center'> SETUP</h1>
 
@@ -97,3 +98,4 @@
 <a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/fone-Razer Nari Ultimate-yellow" /></a>
 <a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/microfone-Razer Seiren X-blue" /></a>
 </p>
+-->
