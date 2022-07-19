@@ -3,13 +3,16 @@
 
 <!-- Stats do perfil -->
 <p align='center' style='text-align: center'>
-<a href='#'><img src="[https://github-readme-stats.vercel.app/api?username=tonellimg&show_icons=true&theme=dark&count_private=true](https://github-readme-stats.vercel.app/api?username=TonelliMG&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)"></a>
+<a href='#'><img src="https://github-readme-stats.vercel.app/api?username=tonellimg&show_icons=true&theme=dark&count_private=true"></a>
 </p>
 
 <!-- Linguagem mais usada -->
 <p align='center' style='text-align: center'>
 <a href='#'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonellimg&theme=dark"></a>
 </p>
+
+<p align="center">
+<a href="http://www.github.com/arthur-campolina"><img src="https://github-readme-stats.vercel.app/api?username=TonelliMG&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="arthur-campolina's GitHub stats" /></a>
 
 <p align="center">
 <a href="http://www.github.com/arthur-campolina"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TonelliMG&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
@@ -48,7 +51,6 @@
 
 <!-- IDE`s -->
 <h2 align='center'> IDE`s </h2>
-
 <p align='center' style='text-align: center'>
 <a href='#' style='padding: 10px' style='padding: 10px'><img align="center" src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" /></a>
 <a href='#' style='padding: 10px' style='padding: 10px'><img align="center" src="https://img.shields.io/badge/Visual Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></a>
@@ -56,20 +58,16 @@
 <a href='#' style='padding: 10px' style='padding: 10px'><img align="center" src="https://img.shields.io/badge/IntelliJ-5708ff?style=for-the-badge&logo=intellijidea&logoColor=white" /></a>
 <a href='#' style='padding: 10px' style='padding: 10px'><img align="center" src="https://img.shields.io/badge/NETBEANS-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" /></a>
 </p>
-
 <!-- Banco de Dados -->
 <h2 align='center'> Banco de Dados </h2>
-
 <p align='center' style='text-align: center'>
 <a href='#' style='padding: 10px' style='padding: 10px'><img align="center" alt="sql" src="https://img.shields.io/badge/SQL SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /></a>
 <a href='#' style='padding: 10px' style='padding: 10px'><img align="center" alt="sql" src="https://img.shields.io/badge/MY SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 <a href='#' style='padding: 10px' style='padding: 10px'><img align="center" alt="sql" src="https://img.shields.io/badge/POSTGRES-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
 <a href='#' style='padding: 10px' style='padding: 10px'><img align="center" alt="sql" src="https://img.shields.io/badge/MARIA DB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /></a>
 </p>
-
 <!-- Suporte -->
 <h2 align='center'> Outros </h2>
-
 <p align='center' style='text-align: center'>
 <a href='#' style='padding: 10px' style='padding: 10px'><img align="center" alt="advpl" src="https://img.shields.io/badge/DATAGRIP-6C78AF?style=for-the-badge&logo=datagrip&logoColor=white" /></a>
 <a href='#' style='padding: 10px' style='padding: 10px'><img align="center" alt="advpl" src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" /></a>
@@ -78,12 +76,10 @@
 <a href='#' style='padding: 10px' style='padding: 10px'><img align="center" alt="advpl" src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href='#' style='padding: 10px' style='padding: 10px'><img align="center" alt="advpl" src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
 </p>
-
 <!-- SETUP -->
 <!--
 </br>
 <h1 align='center'> SETUP</h1>
-
 <p align='center' style='text-align: center'>
 <a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/processador-Ryzen 5600x-red" /></a>
 <a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/placa de video-RTX 3070-green" /></a>
