@@ -81,22 +81,22 @@
 </br>
 <h1 align='center'> SETUP</h1>
 <p align='center' style='text-align: center'>
-<a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/processador-Ryzen 5600x-red" /></a>
-<a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/placa de video-RTX 3070-green" /></a>
-<a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/memoria ram-16gb 3000MHz-yellow" /></a>
-<a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/placa mae-B550M-blue" /></a>
+<a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/cpu-Ryzen 5600x-red" /></a>
+<a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/gpu-RTX 3070-green" /></a>
+<a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/ram-16gb 3000MHz-yellow" /></a>
+<a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/bios-B550M-blue" /></a>
 </p>
 <p align='center' style='text-align: center'>
 <a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/cooler-Aorus WaterForce 240-red" /></a>
 <a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/ssd-Pichau 240gb-green" /></a>
 <a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/hd-Toshiba 2TB-yellow" /></a>
-<a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/gabinete-Pichau Kazan-blue" /></a>
+<a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/case-Pichau Kazan-blue" /></a>
 </p>
 <p align='center' style='text-align: center'>
 <a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/teclado-Razer Blackwidow v2-red" /></a>
 <a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/mouse-Razer Mamba HF-green" /></a>
 <a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/fone-Razer Nari Ultimate-yellow" /></a>
 <a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/microfone-Razer Seiren X-blue" /></a>
-<a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/WebCam-Razer Kiyo-orange" /></a>
+<a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/camera-Razer Kiyo-purple" /></a>
 </p>
 
