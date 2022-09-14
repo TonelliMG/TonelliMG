@@ -43,9 +43,11 @@
 <a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
 <a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
 <a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-<a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/php-5708ff?style=for-the-badge&logo=php&logoColor=white"/></a>
+<a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/PHP-5708ff?style=for-the-badge&logo=php&logoColor=white"/></a>
 <a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/ADVPL-2C39BD?style=for-the-badge&logo=iCloud&logoColor=white"/></a>
+<a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/Flutter-008000?style=for-the-badge&logo=flutter&logoColor=white"/></a>
 </p>
+
 
 <!-- IDE`s -->
 <h2 align='center'> IDE`s </h2>
