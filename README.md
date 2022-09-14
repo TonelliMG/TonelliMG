@@ -19,7 +19,6 @@
 <!-- Trabalho -->
 </br>
 <h1 align='center'> Desenvolvedor</h1>
-
 <p align='center' style='text-align: center'>
 <a href='https://resume.io/r/Ev5pKuKl0'style='padding: 10px'><img src="https://img.shields.io/badge/Curriculo-5708ff?style=for-the-badge&logo=c&logoColor=white"/></a>
 <a href='https://github.com/PontoIniSistemas'><img src="https://img.shields.io/badge/.iNi_Sistemas-FF0000?style=for-the-badge&logoColor=white"/></a>
@@ -28,7 +27,6 @@
 
 <!-- Redes sociais -->
 <h2 align='center'> Redes Sociais </h2>
-
 <p align='center' style='text-align: center'>
 <a href='https://twitter.com/TonelliMG'style='padding: 10px'><img src="https://img.shields.io/badge/Twitter-23b8fe?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href='https://instagram.com/tonelli_oficial' style='padding: 10px'><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -38,7 +36,6 @@
 
 <!-- Linguagens -->
 <h2 align='center'> Linguagens </h2>
-
 <p align='center' style='text-align: center'>
 <a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
 <a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
@@ -58,38 +55,41 @@
 <a href='#' style='padding: 10px' style='padding: 10px'><img align="center" src="https://img.shields.io/badge/IntelliJ-5708ff?style=for-the-badge&logo=intellijidea&logoColor=white" /></a>
 <a href='#' style='padding: 10px' style='padding: 10px'><img align="center" src="https://img.shields.io/badge/NETBEANS-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" /></a>
 </p>
+
 <!-- Banco de Dados -->
 <h2 align='center'> Banco de Dados </h2>
 <p align='center' style='text-align: center'>
 <a href='#' style='padding: 10px' style='padding: 10px'><img align="center" alt="sql" src="https://img.shields.io/badge/SQL SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /></a>
-<a href='#' style='padding: 10px' style='padding: 10px'><img align="center" alt="sql" src="https://img.shields.io/badge/MY SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-<a href='#' style='padding: 10px' style='padding: 10px'><img align="center" alt="sql" src="https://img.shields.io/badge/POSTGRES-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
-<a href='#' style='padding: 10px' style='padding: 10px'><img align="center" alt="sql" src="https://img.shields.io/badge/MARIA DB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /></a>
+<a href='#' style='padding: 10px' style='padding: 10px'><img align="center" alt="mysql" src="https://img.shields.io/badge/MY SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+<a href='#' style='padding: 10px' style='padding: 10px'><img align="center" alt="postgres" src="https://img.shields.io/badge/POSTGRES-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+<a href='#' style='padding: 10px' style='padding: 10px'><img align="center" alt="mariadb" src="https://img.shields.io/badge/MARIA DB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /></a>
 </p>
+
 <!-- Suporte -->
 <h2 align='center'> Outros </h2>
 <p align='center' style='text-align: center'>
-<a href='#' style='padding: 10px' style='padding: 10px'><img align="center" alt="advpl" src="https://img.shields.io/badge/DATAGRIP-6C78AF?style=for-the-badge&logo=datagrip&logoColor=white" /></a>
-<a href='#' style='padding: 10px' style='padding: 10px'><img align="center" alt="advpl" src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" /></a>
-<a href='#' style='padding: 10px' style='padding: 10px'><img align="center" alt="advpl" src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
-<a href='#' style='padding: 10px' style='padding: 10px'><img align="center" alt="advpl" src="https://img.shields.io/badge/FILEZILLA-BF0000?style=for-the-badge&logo=filezilla&logoColor=white" /></a>
-<a href='#' style='padding: 10px' style='padding: 10px'><img align="center" alt="advpl" src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href='#' style='padding: 10px' style='padding: 10px'><img align="center" alt="advpl" src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+<a href='#' style='padding: 10px' style='padding: 10px'><img align="center" alt="datagrip" src="https://img.shields.io/badge/DATAGRIP-6C78AF?style=for-the-badge&logo=datagrip&logoColor=white" /></a>
+<a href='#' style='padding: 10px' style='padding: 10px'><img align="center" alt="xampp" src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" /></a>
+<a href='#' style='padding: 10px' style='padding: 10px'><img align="center" alt="postman" src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
+<a href='#' style='padding: 10px' style='padding: 10px'><img align="center" alt="filezilla" src="https://img.shields.io/badge/FILEZILLA-BF0000?style=for-the-badge&logo=filezilla&logoColor=white" /></a>
+<a href='#' style='padding: 10px' style='padding: 10px'><img align="center" alt="github" src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href='#' style='padding: 10px' style='padding: 10px'><img align="center" alt="git" src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+<a href='#' style='padding: 10px' style='padding: 10px'><img align="center" alt="wordpress" src="https://img.shields.io/badge/wordpress-2C39BD?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
 </p>
+
 <!-- SETUP -->
-<!--
 </br>
 <h1 align='center'> SETUP</h1>
 <p align='center' style='text-align: center'>
 <a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/processador-Ryzen 5600x-red" /></a>
 <a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/placa de video-RTX 3070-green" /></a>
-<a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/memoria ram-16gb-yellow" /></a>
+<a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/memoria ram-16gb 3000MHz-yellow" /></a>
 <a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/placa mae-B550M-blue" /></a>
 </p>
 <p align='center' style='text-align: center'>
 <a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/cooler-Aorus WaterForce 240-red" /></a>
 <a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/ssd-Pichau 240gb-green" /></a>
-<a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/hd-Toshiba 1TB-yellow" /></a>
+<a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/hd-Toshiba 2TB-yellow" /></a>
 <a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/gabinete-Pichau Kazan-blue" /></a>
 </p>
 <p align='center' style='text-align: center'>
@@ -97,5 +97,6 @@
 <a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/mouse-Razer Mamba HF-green" /></a>
 <a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/fone-Razer Nari Ultimate-yellow" /></a>
 <a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/microfone-Razer Seiren X-blue" /></a>
+<a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/WebCam-Razer Kiyo-orange" /></a>
 </p>
--->
+
