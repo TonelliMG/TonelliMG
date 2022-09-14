@@ -78,8 +78,7 @@
 </p>
 
 <!-- SETUP -->
-</br>
-<h1 align='center'> SETUP</h1>
+<h2 align='center'> Setup</h2>
 <p align='center' style='text-align: center'>
 <a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/cpu-Ryzen 5600x-red" /></a>
 <a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/gpu-RTX 3070-green" /></a>
