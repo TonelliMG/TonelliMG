@@ -18,14 +18,23 @@
 
 </br>
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-  <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/totvs_icon_131953.png" />
+  <a href="#"><img align="center" alt="ADVPL" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/totvs_icon_131953.png" /></a>
+  <img align="center" alt="ADVPL" height="10" width="10" src="https://cdn-icons-png.flaticon.com/512/467/467261.png" />
+  <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="ADVPL" height="10" width="10" src="https://cdn-icons-png.flaticon.com/512/467/467261.png" />
+  <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="ADVPL" height="10" width="10" src="https://cdn-icons-png.flaticon.com/512/467/467261.png" />
+  <img align="center" alt="JAVASCRIPT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="ADVPL" height="10" width="10" src="https://cdn-icons-png.flaticon.com/512/467/467261.png" />
+  <img align="center" alt="JQUERY" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+  <img align="center" alt="ADVPL" height="10" width="10" src="https://cdn-icons-png.flaticon.com/512/467/467261.png" />
+  <img align="center" alt="CSHARP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="ADVPL" height="10" width="10" src="https://cdn-icons-png.flaticon.com/512/467/467261.png" />
+  <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="ADVPL" height="10" width="10" src="https://cdn-icons-png.flaticon.com/512/467/467261.png" />
+  <img align="center" alt="FLUTTER" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <img align="center" alt="ADVPL" height="10" width="10" src="https://cdn-icons-png.flaticon.com/512/467/467261.png" />
+  <img align="center" alt="WORDPRESS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 </div>
 
 <!-- Trabalho -->
@@ -57,7 +66,6 @@
 <a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/Flutter-008000?style=for-the-badge&logo=flutter&logoColor=white"/></a>
 </p> -->
 
-
 <!-- IDE`s -->
 <!-- <h2 align='center'> IDE`s </h2>
 <p align='center' style='text-align: center'>
@@ -88,7 +96,6 @@
 <a href='#' style='padding: 10px' style='padding: 10px'><img align="center" alt="git" src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
 <a href='#' style='padding: 10px' style='padding: 10px'><img align="center" alt="wordpress" src="https://img.shields.io/badge/wordpress-2C39BD?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
 </p> -->
-
 
 <!-- SETUP -->
 <!-- <h2 align='center'> Setup</h2>
