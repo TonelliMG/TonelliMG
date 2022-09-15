@@ -77,6 +77,7 @@
 <a href='#' style='padding: 10px' style='padding: 10px'><img align="center" alt="wordpress" src="https://img.shields.io/badge/wordpress-2C39BD?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
 </p>
 
+<!--
 <!-- SETUP -->
 <h2 align='center'> Setup</h2>
 <p align='center' style='text-align: center'>
@@ -98,4 +99,5 @@
 <a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/microfone-Razer Seiren X-blue" /></a>
 <a href='#' style='padding: 10px' style='padding: 10px'><img src="https://img.shields.io/badge/camera-Razer Kiyo-purple" /></a>
 </p>
+-- >
 
