@@ -19,13 +19,13 @@
 <!-- Linguagens -->
 </br>
 <div align="center" style="display: inline_block"><br>
-  <a href="#"><img align="center" alt="ADVPL" height="40" width="40" style="padding-top: 20px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/totvs_icon_131953.png" /></a>
-  <a href="#"><img align="center" alt="ADVPL" height="10" width="10" style="padding-top: 20px" src="https://cdn-icons-png.flaticon.com/512/467/467261.png" /></a>
-  <a href="#"><img align="center" alt="HTML" height="40" width="40" style="padding-top: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
-  <a href="#"><img align="center" alt="ADVPL" height="10" width="10" style="padding-top: 20px" src="https://cdn-icons-png.flaticon.com/512/467/467261.png" /></a>
-  <a href="#"><img align="center" alt="CSS" height="40" width="40" style="padding-top: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
-  <a href="#"><img align="center" alt="ADVPL" height="10" width="10" style="padding-top: 20px" src="https://cdn-icons-png.flaticon.com/512/467/467261.png" /></a>
-  <a href="#"><img align="center" alt="JAVASCRIPT" height="40" width="40" style="padding-top: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
+  <a href="#" style="padding-top: 20px"><img align="center" alt="ADVPL" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/totvs_icon_131953.png" /></a>
+  <a href="#" style="padding-top: 20px"><img align="center" alt="ADVPL" height="10" width="10" src="https://cdn-icons-png.flaticon.com/512/467/467261.png" /></a>
+  <a href="#" style="padding-top: 20px"><img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
+  <a href="#" style="padding-top: 20px"><img align="center" alt="ADVPL" height="10" width="10" src="https://cdn-icons-png.flaticon.com/512/467/467261.png" /></a>
+  <a href="#" style="padding-top: 20px"><img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
+  <a href="#" style="padding-top: 20px"><img align="center" alt="ADVPL" height="10" width="10" src="https://cdn-icons-png.flaticon.com/512/467/467261.png" /></a>
+  <a href="#" style="padding-top: 20px"><img align="center" alt="JAVASCRIPT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
   <a href="#"><img align="center" alt="ADVPL" height="10" width="10" src="https://cdn-icons-png.flaticon.com/512/467/467261.png" /></a>
   <a href="#"><img align="center" alt="JQUERY" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" /></a>
   <a href="#"><img align="center" alt="ADVPL" height="10" width="10" src="https://cdn-icons-png.flaticon.com/512/467/467261.png" /></a>
