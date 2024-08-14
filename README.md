@@ -1,5 +1,5 @@
 <!-- Initial Title -->
-<h1 align='center'> Hi there! I'm Raphael, a Fullstack developer 🖐️</h1>
+<h1 align='center'> Hi there! I'm Raphael, a Developer 🖐️</h1>
 
 <!-- Profile -->
 <p align='center'>
