@@ -26,14 +26,11 @@
 <br>
 <div align="center" style="display: inline_block">
   <a href="#"><img align="center" alt="ADVPL" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/totvs_icon_131953.png"></a>
-  <a href="#"><img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
-  <a href="#"><img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
-  <a href="#"><img align="center" alt="JAVASCRIPT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
-  <a href="#"><img align="center" alt="JQUERY" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"></a>
-  <a href="#"><img align="center" alt="CSHARP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a>
-  <a href="#"><img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></a>
-  <a href="#"><img align="center" alt="FLUTTER" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"></a>
-  <a href="#"><img align="center" alt="WORDPRESS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"></a>
+  <a href="#"><img align="center" alt="REACT" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png"></a>
+  <a href="#"><img align="center" alt="FLUTTER" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png"></a>
+  <a href="#"><img align="center" alt="PHP" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png"></a>
+  <a href="#"><img align="center" alt="CSHARP" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png"></a>
+  <a href="#"><img align="center" alt="WORDPRESS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Wordpress_icon-icons.com_66780.png"></a>
 </div>
 
 <!-- Languages -->
