@@ -24,14 +24,15 @@
 
 <!-- Languages and Tools -->
 <br>
-<div align="center" style="display: inline_block">
-  <a href="#"><img align="center" alt="ADVPL" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/totvs_icon_131953.png" style="margin-right: 40px;"></a>
-  <a href="#"><img align="center" alt="REACT" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" style="margin-right: 40px;"></a>
-  <a href="#"><img align="center" alt="FLUTTER" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" style="margin-right: 40px;"></a>
-  <a href="#"><img align="center" alt="PHP" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" style="margin-right: 40px;"></a>
-  <a href="#"><img align="center" alt="CSHARP" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" style="margin-right: 40px;"></a>
-  <a href="#"><img align="center" alt="WORDPRESS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Wordpress_icon-icons.com_66780.png"></a>
+<div style="display: flex; justify-content: center; gap: 40px;">
+  <a href="#"><img alt="ADVPL" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/totvs_icon_131953.png"></a>
+  <a href="#"><img alt="REACT" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png"></a>
+  <a href="#"><img alt="FLUTTER" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png"></a>
+  <a href="#"><img alt="PHP" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png"></a>
+  <a href="#"><img alt="CSHARP" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png"></a>
+  <a href="#"><img alt="WORDPRESS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Wordpress_icon-icons.com_66780.png"></a>
 </div>
+
 
 <!-- Languages -->
 <br>
