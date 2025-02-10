@@ -10,7 +10,7 @@
 
 <!-- Contributions -->
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=TonelliMG)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com/?user=TonelliMG" alt="GitHub Streak">
 </p>
 
 <!-- Most Used Languages -->
