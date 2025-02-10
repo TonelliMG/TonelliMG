@@ -4,7 +4,7 @@
 <!-- Profile -->
 <p align='center'>
   <a href='#'>
-    <img src="https://github-readme-stats-d6vrmk6t0-tonellimgs-projects.vercel.app/api?icon_color=0891b2&count_private=true&username=TonelliMG&text_color=ffffff&hide_border=true&title_color=0891b2&bg_color=1c1917&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=TonelliMG&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true">
   </a>
 </p>
 
