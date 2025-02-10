@@ -10,9 +10,9 @@
 
 <!-- Contributions -->
 <p align="center">
-  <a href="#">
-    <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=TonelliMG&theme=dark&locale=pt_BR)](https://git.io/streak-stats)">
-  </a>
+  ```md
+  [![GitHub Streak](https://streak-stats.demolab.com?user=TonelliMG&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
+ ```
 </p>
 
 <!-- Most Used Languages -->
