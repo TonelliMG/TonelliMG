@@ -10,9 +10,7 @@
 
 <!-- Contributions -->
 <p align="center">
-  ```md
-  [![GitHub Streak](https://streak-stats.demolab.com?user=TonelliMG&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
- ```
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=TonelliMG)](https://git.io/streak-stats)
 </p>
 
 <!-- Most Used Languages -->
