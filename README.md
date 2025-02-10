@@ -11,7 +11,7 @@
 <!-- Contributions -->
 <p align="center">
   <a href="#">
-    <img src="https://streak-stats.demolab.com/?user=TonelliMG&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true">
+    <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=TonelliMG&theme=dark&locale=pt_BR)](https://git.io/streak-stats)">
   </a>
 </p>
 
