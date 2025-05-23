@@ -45,7 +45,7 @@
 <br>
 <h1 align='center'> More About Me </h1>
 <p align='center'>
-  <a href='https://resume.io/r/Ev5pKuKl0' style='padding: 10px'>
+  <a href='https://drive.google.com/file/d/1h9ZIAxa29YGix1NLNC5VGu03eTjkM7PP/view' style='padding: 10px'>
     <img src="https://img.shields.io/badge/CV-5708ff?style=for-the-badge&logo=c&logoColor=white">
   </a>
   <a href='https://www.jamef.com.br/'>
