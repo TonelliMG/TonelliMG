@@ -42,9 +42,9 @@ Sou um desenvolvedor **full-stack** com forte atuação na criação de soluçõ
     <td>
       <img alt="Top Langs" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=TonelliMG&theme=tokyonight&hide_border=false" />
     </td>
-    <td>
+<!--     <td>
       <img alt="Tonelli's GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=TonelliMG&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=false&count_private=true" />
-    </td>
+    </td> -->
     <td>
       <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonelliMG&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&show_icons=true&hide_border=false" />
     </td>
