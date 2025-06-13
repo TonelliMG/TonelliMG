@@ -1,68 +1,48 @@
-<!-- Initial Title -->
-<h1 align='center'> Hi there! I'm Raphael, a Developer 🖐️</h1>
+# 👨🏻‍💻 Raphael Tonelli 
 
-<!-- Contributions -->
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TonelliMG&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true">
-  </a>
-</p>
+**Desenvolvedor Full Stack**
 
-<!-- Most Used Languages -->
-<p align='center'>
-  <a href='#'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonellimg&theme=dark">
-  </a>
-</p>
+Sou um desenvolvedor **full-stack** com forte atuação na criação de soluções eficientes, organizadas e escaláveis. Tenho experiência consolidada em tecnologias como **React**, **Next.js**, **Flutter**, **PHP**, **Node.js**, **TypeScript**, **JavaScript**, **HTML**, **CSS**, **AWS** e **GIT**. Possuo ampla familiaridade com **bancos de dados relacionais** e **não relacionais**, o que me permite atuar de ponta a ponta em diversos tipos de projetos. Me destaco pela facilidade de aprendizado, boa comunicação, e pela capacidade de me integrar rapidamente a times multidisciplinares. Estou sempre em busca de me atualizar com as tendências e melhores práticas do mercado, mantendo uma evolução constante como profissional.
 
-<!-- Languages and Tools -->
-<br>
-<div align="center" style="display: inline_block">
-  <a href="#"><img align="center" alt="ADVPL" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/totvs_icon_131953.png"></a>
-  <a href="#"><img align="center" alt="REACT" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png"></a>
-  <a href="#"><img align="center" alt="FLUTTER" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png"></a>
-  <a href="#"><img align="center" alt="PHP" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png"></a>
-  <a href="#"><img align="center" alt="CSHARP" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png"></a>
-  <a href="#"><img align="center" alt="WORDPRESS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Wordpress_icon-icons.com_66780.png"></a>
-</div>
+---
 
+### 🛠️ Linguagens
 
-<!-- Languages -->
-<br>
-<div align="center" style="display: inline_block">
-  <a href="#"><img align="center" alt="Brazilian Flag" height="40" width="60" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"></a>
-  <a href="#"><img align="center" alt="US Flag" height="40" width="60" src="https://png.vector.me/files/images/1/3/132500/united_states_clip_art.jpg"></a>
-</div>
+<img align="left" alt="Brazilian Flag" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg">
+<img align="left" alt="Brazilian Flag" width="30px" style="padding-right: 10px;" src="https://png.vector.me/files/images/1/3/132500/united_states_clip_art.jpg">
 
-<!-- About -->
-<br>
-<h1 align='center'> More About Me </h1>
-<p align='center'>
-  <a href='https://drive.google.com/file/d/1h9ZIAxa29YGix1NLNC5VGu03eTjkM7PP/view' style='padding: 10px'>
-    <img src="https://img.shields.io/badge/CV-5708ff?style=for-the-badge&logo=c&logoColor=white">
-  </a>
-  <a href='https://www.jamef.com.br/'>
-    <img src="https://img.shields.io/badge/Jamef-FF0000?style=for-the-badge&logoColor=white">
-  </a>
-  <a href='https://www.linkedin.com/in/tonelliraphael/' style='padding: 10px'>
-    <img src="https://img.shields.io/badge/Linkedin-1086e4?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+<br/>
+<br/>
 
-<!-- Social Networks -->
-<br>
-<h2 align='center'> Social Networks </h2>
-<p align='center' style='padding-top: 5px'>
-  <a href='https://twitter.com/TonelliMG' style='padding: 10px'>
-    <img src="https://img.shields.io/badge/Twitter-23b8fe?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  <a href='https://instagram.com/tonelli_oficial' style='padding: 10px'>
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href='https://www.youtube.com/c/BoyraphapixBR' style='padding: 10px'>
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-  <a href='https://www.twitch.tv/Boyraphapix' style='padding: 10px'>
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-  </a>
-</p>
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<img align="left" alt="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="AWS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<br/>
+<br/>
+
+---
+
+### 📈 Estatísticas do GitHub
+
+<table align="center">
+  <tr>
+    <td>
+      <img alt="Guilherme's GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=TonelliMG&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+    </td>
+    <td>
+      <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonelliMG&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+    </td>
+  </tr>
+</table>
